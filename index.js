@@ -1,4 +1,4 @@
-//console.log('Starting to run GEMPY...') //CREATOR - DEVBOT,ARIETUBE,GEMPYTON
+//console.log('Starting to run TEGUH...') //CREATOR - TEGUH
 const moment = require("moment-timezone")
 const time = moment.tz('Asia/Jakarta').format("HH:mm:ss")
 let cluster = require('cluster')
