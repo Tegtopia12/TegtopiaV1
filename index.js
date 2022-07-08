@@ -234,7 +234,7 @@ console.log(color(tampilTanggal, "pink"));
 console.log(color(tampilWaktu, "pink"));
 console.log(color(tampilHari, "pink"));
 
-CFonts.say('CREATED\nBY GEMPY TON', {
+CFonts.say('CREATED\nBY TEGUH J ', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
